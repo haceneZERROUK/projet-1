@@ -14,3 +14,6 @@ git commit: pour commit une action dans la branche
 git branch nomDeLaBranche: pour créer une branche
 
 git log: pour connaitre les logs de commits successifs sur la branche où nous sommes
+git touch
+git reset
+
