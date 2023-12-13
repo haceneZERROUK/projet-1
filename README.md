@@ -1,19 +1,16 @@
 # projet-1
 travail de groupe numero  1 sur github
 
-voici mes 5 commandes git:
-git branch nomDeLaBranche
-pour créer une branche
+Commandes sur GIT
 
-git log
-pour connaitre les logs de commits successifs sur la branche où nous sommes
+git checkout : Permet de revenir et de se deplacer dans une branche
 
-git checkout nomDeLaBranche
-pour se rendre dans la branche ciblée
+git switch : Pour changer de branche
 
+git add: fait une sauvegarde dans la salle d'attente
 
-git add
-pouir passer du working directory au stagged status
+git commit: pour commit une action dans la branche
 
-git commit 
-pour passer du stagged status au local repository(verif terme)
+git branch nomDeLaBranche: pour créer une branche
+
+git log: pour connaitre les logs de commits successifs sur la branche où nous sommes
